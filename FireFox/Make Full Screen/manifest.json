@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Make FullScreen",
+  "version": "1.3.3",
+  "description": "Select any element on a webpage and expand it to full-screen mode using a glassmorphism interface.",
+  "permissions": ["scripting", "activeTab"],
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["cursor.png", "icon.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "fullscreen@supercode.com",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}
