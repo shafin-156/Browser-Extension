@@ -10,7 +10,7 @@
 
 ## 🌟 Core Features
 
-`Enable_Plus` combines two essential browser utilities into one seamless extension:
+`Enable Plus` combines two essential browser utilities into one seamless extension:
 
 ### 1. 🔓 Element & Input Unlocker (`Enable Plus`)
 * **Remove Disabled Attributes:** Scans and strips `disabled`, `readonly`, and `pointer-events: none` from buttons, input fields, forms, and context menus.
