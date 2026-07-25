@@ -1,4 +1,4 @@
-# Extension For FireFox Browser
+# Extension (add-ons) For FireFox Browser
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Target](https://img.shields.io/badge/firefox-v109%2B-orange.svg)
