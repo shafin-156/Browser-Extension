@@ -13,7 +13,7 @@
 `Enable Plus` combines two essential browser utilities into one seamless extension:
 
 ### 1. 🔓 Element & Input Unlocker (`Enable Plus`)
-* **Remove Disabled Attributes:** Scans and strips `disabled`, `readonly`, and `pointer-events: none` from buttons, input fields, forms, and context menus.
+* **Remove Disabled Attributes:** Scans and strips `disabled`, `readonly` from buttons, input fields, forms, and context menus.
 * **Restore Interactions:** Enables grayed-out buttons, blocked copy-paste actions, and restricted form submissions.
 * **Automated Injection:** Runs automatically or via a single-click trigger to restore locked page features.
 
