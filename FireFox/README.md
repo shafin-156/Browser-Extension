@@ -4,13 +4,12 @@
 ![Target](https://img.shields.io/badge/firefox-v109%2B-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-> A lightweight Firefox extension that unlocks disabled web elements, enables blocked input fields, and provides a quick full-screen mode for any webpage or video element.
+> Lightweight Firefox extensions
 
 ---
 
 ## 🌟 Core Features
 
-`Enable Plus` combines two essential browser utilities into one seamless extension:
 
 ### 1. 🔓 Element & Input Unlocker (`Enable Plus`)
 * **Remove Disabled Attributes:** Scans and strips `disabled`, `readonly` from buttons, input fields, forms, and context menus.
